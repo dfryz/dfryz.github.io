@@ -88,7 +88,7 @@ a:hover {
     height: auto;
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 970px) {
     h2 {
         text-align: center;
     }
